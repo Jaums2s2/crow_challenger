@@ -1,0 +1,26 @@
+.title{
+    color:black;
+    font-size: 30px;
+    margin-top: 10px;
+}
+
+.navbar{
+    background-color: black;
+    height: 70px;
+}
+.nav-link{
+    margin-left: 26px;
+    color:white;
+}
+.title-panel{
+    color: #DAA520;
+    font-size: 55px;
+}
+.name{
+    color: #000080;
+    font-size: 40px;
+}
+body{
+    background-color: #DCDCDC;
+}
+
